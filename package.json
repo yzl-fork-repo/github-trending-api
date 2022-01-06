@@ -5,9 +5,6 @@
   "sideEffects": false,
   "main": "dist/github-trending.cjs.js",
   "module": "dist/github-trending.esm.js",
-  "engines": {
-    "node": "12.x"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/huchenme/github-trending-api.git"
